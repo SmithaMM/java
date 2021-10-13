@@ -1,0 +1,3 @@
+enum NewsPaperLang{
+KANNADA, HINDHI,ENGLISH, THAMIL, TELUGU;
+}
