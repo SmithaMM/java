@@ -1,0 +1,3 @@
+enum WatchType{
+ANALOG, DIGITAL, SMART, SWISS, QUARTZ
+}
